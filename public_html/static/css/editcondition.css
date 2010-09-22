@@ -1,0 +1,15 @@
+table.condlist th {
+
+}
+
+table.condlist th.condth {
+	text-align: left; 
+	
+	background-image: none;
+	
+	background-color: white;
+	
+	border: 0;
+	
+	color: #000;
+}

@@ -1,0 +1,6 @@
+Plugins:
+
+- form selects for yes/no things
+- submit buttons
+
+- navbar parseing for the sidebar

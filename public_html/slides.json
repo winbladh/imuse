@@ -1,0 +1,4 @@
+{ "slides":[ 
+{"img":"img1.jpg", "text":"This would be text for image 1"}, 
+{"img":"img2.jpg", "text":"This would be text for image 2"}, 
+{"img":"img3.jpg", "text":"This would be text for image 3"} ] } 

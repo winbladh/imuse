@@ -1,0 +1,13 @@
+For any PHP help, you can always do
+
+http://php.net/<FUNCTION> so something like http://php.net/date will show you
+the date reference and stuff
+
+SMARTY:
+the template docs are on smarty.net
+
+Prototype/Scriptaculous are all hosted via google, so they do not appear
+locally on the server
+
+
+
