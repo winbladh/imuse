@@ -12,12 +12,12 @@ include_once "../classes/functions.php";
 //$dbname = "imuseweb_".str_ireplace(".imuseweb.ucicalico.com","",$_SERVER['HTTP_HOST']);
 $dbname = "imuseweb_dev";//.str_ireplace(".imuseweb.ucicalico.com","",$_SERVER['HTTP_HOST']);
 
-if($_SERVER['HTTP_HOST']=="imuse.ucicalico.com")
+if($_SERVER['HTTP_HOST']=="imuse.ece.udel.edu")
 {
 	$dbname = "imuseweb_live";
 }
 
-$DB = new DBMySQL($dbname, "imuseweb", "imuse99");
+$DB = new DBMySQL($dbname, "reqeng", "iMuseWebRE10");
 
 // Smarty Setup
 include_once "/phplib/Smarty/Smarty.class.php";
