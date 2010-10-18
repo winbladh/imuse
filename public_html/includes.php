@@ -12,7 +12,7 @@ include_once "../classes/functions.php";
 //$dbname = "imuseweb_".str_ireplace(".imuseweb.ucicalico.com","",$_SERVER['HTTP_HOST']);
 $dbname = "imuseweb_dev";//.str_ireplace(".imuseweb.ucicalico.com","",$_SERVER['HTTP_HOST']);
 
-if($_SERVER['HTTP_HOST']=="http://imuse.ece.udel.edu/imuse-home")
+if($_SERVER['HTTP_HOST']=="imuse.ece.udel.edu/imuse-home")
 {
 	$dbname = "imuseweb_live";
 }
